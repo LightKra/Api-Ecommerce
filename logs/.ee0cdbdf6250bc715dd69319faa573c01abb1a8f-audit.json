@@ -1,0 +1,125 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\.ee0cdbdf6250bc715dd69319faa573c01abb1a8f-audit.json",
+    "files": [
+        {
+            "date": 1730836747791,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-05-14.log",
+            "hash": "c33efa31ccca38eba2add42b055260e657ef5dc8b3dda3e0d271300e54aeae52"
+        },
+        {
+            "date": 1730836860907,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-05-15.log",
+            "hash": "e4f8ed9515c4c4276e22e3dfe55863d8e3ce73f6839e9781618844bba0a15e73"
+        },
+        {
+            "date": 1730840434363,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-05-16.log",
+            "hash": "36f50530e836a158332435a65821e1c2d1e57053114820ae873b934843940e5d"
+        },
+        {
+            "date": 1731077162542,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-08-09.log",
+            "hash": "ee767d47a441dcf4882edfeaaf0534dd14b1e5488ac11c773111781b21643827"
+        },
+        {
+            "date": 1731078001165,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-08-10.log",
+            "hash": "be4ecd4d661f58c984382ea4c742d1d9ce15df528d864fc853be0ac29035dd2f"
+        },
+        {
+            "date": 1731082312663,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-08-11.log",
+            "hash": "a49a2a820a4972027fdf38e162ab2a3c72cc644612bb45308919e1ee0196f777"
+        },
+        {
+            "date": 1731101386431,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-08-16.log",
+            "hash": "a2f61f61955c3a7bb9c7392c7dcaaabee6054741c4c1f12b4d4cb725386cad37"
+        },
+        {
+            "date": 1731356431488,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-11-15.log",
+            "hash": "f96de0fc9eee1fc50190ed8568db9be89e9549ffc59c684dcc93437fe2bf83c6"
+        },
+        {
+            "date": 1731436712156,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-12-13.log",
+            "hash": "c0139c92c6e3478229a4e9046a05fb49312da8f5c02ffe9de265d65247369869"
+        },
+        {
+            "date": 1731505563306,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-13-08.log",
+            "hash": "2512aad2009cdf1c145ce6b5940fdfeade09fd51184997cb060133df512adb88"
+        },
+        {
+            "date": 1731518025763,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-13-12.log",
+            "hash": "b41725e28c819988406ec47bc149bbe5c1ce34762e2a03c03cec61ef53ce172a"
+        },
+        {
+            "date": 1731608478135,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-14-13.log",
+            "hash": "72ae001301f588c7cadebba8fa430bbaa6a0a2f3a3a981eba35e264a9e32c4c3"
+        },
+        {
+            "date": 1731621173276,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-14-16.log",
+            "hash": "0858c48f1ef02fc1f69bce9b8142472805164a2301155eec3748398eadd9370f"
+        },
+        {
+            "date": 1731683402955,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-15-10.log",
+            "hash": "6447492e55dbbb12d395e2c320db0b2fd142495e6067c22676f5474b3e5f8559"
+        },
+        {
+            "date": 1731692414146,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-15-12.log",
+            "hash": "a749ca6f6c2f319f90e3f6a493b47f388b22220876c5c9e315c39014e037bcd6"
+        },
+        {
+            "date": 1731693910025,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-15-13.log",
+            "hash": "6b49a206306db4d95243e7c422ca2bc34fd0be56e4c8a4c472ece389f9f5d224"
+        },
+        {
+            "date": 1731781738958,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-16-13.log",
+            "hash": "bbc48723cb679174ef12cbe3147eb0142a76f88c70d5bd3ae504bc0f0c1d082c"
+        },
+        {
+            "date": 1731870575555,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-17-14.log",
+            "hash": "25d8d8986a530b723a1b786647c08cd69714323390fce1b88b4ded2d2942c295"
+        },
+        {
+            "date": 1731881557405,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-17-17.log",
+            "hash": "2be93eda1b5b8a6be7cffac827a02d04e2be88b274dc3a5c64636b8877d7e306"
+        },
+        {
+            "date": 1731943563989,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-18-10.log",
+            "hash": "6c7f337f438e4d1c3301aec290b65548b07fb88404ee246040ce0a2429aa63d6"
+        },
+        {
+            "date": 1731960043659,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-18-15.log",
+            "hash": "6d636f2cf7c340429f6157e4e34170f579c819cbbbcc2b4fb711fb1b71ec8a4f"
+        },
+        {
+            "date": 1732024242244,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-19-08.log",
+            "hash": "881db6fbfffbc700b1448f6903e2637fa0b61adb8ca6c37a5f514e39f1d3bf1a"
+        },
+        {
+            "date": 1732034767831,
+            "name": "D:\\Programacion\\Ejercicios\\Node\\Api Ecommerce\\logs\\application-2024-11-19-11.log",
+            "hash": "07ad9b034c1f8cb1a913b4a1450653973092d6784683d7178dfab8edc64bbd0d"
+        }
+    ],
+    "hashType": "sha256"
+}
